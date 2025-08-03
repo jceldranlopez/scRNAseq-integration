@@ -89,5 +89,5 @@ This project is licensed under the MIT License. See LICENSE for details.
 
 ## 👤 Author
 
-Developed by [Your Name](https://github.com/YOUR_GITHUB_USERNAME)  
+Developed by [Jose David Celdran Lopez](https://github.com/jceldranlopez))  
 Feel free to submit issues, suggestions, or pull requests!
