@@ -19,8 +19,7 @@ While this example uses PBMCs under resting and LPS conditions, the script is wr
 
 ## 📂 Contents
 
-- `pbmc_resting_vs_lps_integration.R` — Main R script for data processing and analysis  
-- `pbmc_resting_vs_lps_integrated.rds` — Example integrated Seurat object (can be replaced with your data)  
+- `Single cell RNA-Seq integration script.R` — Main R script for data processing and analysis   
 - `.png` figures — UMAPs, feature plots, and violin plots for key genes
 
 ---
