@@ -66,7 +66,7 @@ install.packages(c("Seurat", "dplyr", "patchwork", "plotly", "ggplot2"))
 ## 🔍 Example Visualization
 
 <p align="center">
-  <img src="UMAP_Celltype_by_Condition_clusters.png" width="600">
+  <img src="Plots/UMAP_Celltype_by_Condition_clusters.png" width="600">
 </p>
 
 ---
