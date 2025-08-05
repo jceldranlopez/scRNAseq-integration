@@ -10,7 +10,7 @@ This repository contains a fully reproducible pipeline for the **integration, cl
 ✅ **Automated cell type annotation** via curated marker gene lists  
 ✅ **Customizable and modular** for different biological systems or tissues  
 ✅ **High-quality visualizations** (UMAP, feature plots, violin plots)  
-✅ **Differential expression analysis** within and across clusters  
+✅ **Differential expression analysis** within clusters  
 ✅ **Compatible with 10X Genomics data**
 
 While this example uses PBMCs under resting and LPS conditions, the script is written to be adaptable to **any scRNA-seq dataset** (e.g., tumor microenvironments, developing organs, patient cohorts).
